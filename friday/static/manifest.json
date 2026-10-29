@@ -1,0 +1,9 @@
+{
+  "name": "Friday",
+  "short_name": "Friday",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080d",
+  "theme_color": "#05080d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
